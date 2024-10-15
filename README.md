@@ -20,7 +20,7 @@ Enter Your API Key: To track your achievement progress so you don't have to ente
 
 Using the Application: Explore the features and customize your achievement tracking.
 
-Virus Scan: For your peace of mind, I ran the application through VirusTotal. Here's the report: (https://www.virustotal.com/gui/url/cfde6b984fe2ede4b80c7998bfb1d355e9b8c26c9640c7f3fea4bb6f939c9df3?nocache=1)
+Virus Scan: For your peace of mind, I ran the application through VirusTotal. Here's the report: https://www.virustotal.com/gui/url/cfde6b984fe2ede4b80c7998bfb1d355e9b8c26c9640c7f3fea4bb6f939c9df3?nocache=1
 
 Feedback: I'd love to hear your thoughts and any suggestions you might have.
 
