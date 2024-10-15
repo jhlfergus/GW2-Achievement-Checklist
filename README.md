@@ -20,13 +20,7 @@ Enter Your API Key: To track your achievement progress so you don't have to ente
 
 Using the Application: Explore the features and customize your achievement tracking.
 
-Virus Scan: For your peace of mind, I ran the application through VirusTotal. Here's the report: https://www.virustotal.com/gui/file/c0f09dfb8003ee8b4f5c5305224793abca50511a1388abea1f10e2e4045b5b43/detection
-
-One file did get flagged, but here is a year old Reddit thread where others are discussing that it is a false positive: https://www.reddit.com/r/antivirus/comments/wlkud8/trojanmalware300983susgen_false_positive
-
-Here is another thread about it from bleepingcomputer.com discussing the same thing: https://www.bleepingcomputer.com/forums/t/753079/i-got-infected-by-trojanmalware300983susgen-from-downloading-ngrok-help/page-2
-
-Use your best judgement and don't do anything that you feel uncomfortable about, but I use this app every day.
+Virus Scan: For your peace of mind, I ran the application through VirusTotal. Here's the report: (https://www.virustotal.com/gui/url/cfde6b984fe2ede4b80c7998bfb1d355e9b8c26c9640c7f3fea4bb6f939c9df3?nocache=1)
 
 Feedback: I'd love to hear your thoughts and any suggestions you might have.
 
