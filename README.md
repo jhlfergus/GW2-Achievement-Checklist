@@ -4,7 +4,7 @@ Hi everyone,
 
 I've developed a Guild Wars 2 Achievement Checklist application to help track achievements more efficiently. You can download it using the link below:
 
-Download Link: https://github.com/jhlfergus/GW2-Achievement-Checklist/blob/main/GW2%20Achievement%20Tracker.zip
+Download Link: https://github.com/jhlfergus/GW2-Achievement-Checklist/blob/master/Guild%20Wars%202%20Achievement%20Checklist.zip
 
 Instructions:
 
